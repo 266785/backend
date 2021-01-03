@@ -1,9 +1,9 @@
   
 {
   "items": [
-    { "id": 1, name: "LAPTOP CASE", description: "Handmade out of top-grain leather with a wool interior, the Monument Laptop Case provides rugged protection for a laptop as well as additional pockets for small daily carry items.", price: 100, photoUrl: "https://cdn.shopify.com/s/files/1/2304/5283/products/Rustico_Photography_Studio_MonumentLaptopCase_Buckskin_01_1280x1280.jpg" },
-    { "id": 2, name: "NAVIGATOR LEATHER NOTEBOOK", description: "The Navigator Leather Notebook features the best of our craft: a minimalist design, built refillable, and handmade with top-grain leather.", price: 28, photoUrl: "https://cdn.shopify.com/s/files/1/2304/5283/products/Rustico_Photography_Studio_Navigator_Notebook_Saddle_1_grande.jpg" },
-    { "id": 3, name: "LOOP LEATHER KEYCHAIN", description: "Easily and conveniently store your keys. A meticulously cut leather loop is  handcrafted around a metal key ring.", price: 10, photoUrl: "https://cdn.shopify.com/s/files/1/2304/5283/products/Rustico_Photography_Lifestyle_LoopKeychain_66_Web_1024x1024.jpg" }
+    { "id": 1, "name": "LAPTOP CASE", "description": "Handmade out of top-grain leather with a wool interior, the Monument Laptop Case provides rugged protection for a laptop as well as additional pockets for small daily carry items.", "price": 100, "photoUrl": "https://cdn.shopify.com/s/files/1/2304/5283/products/Rustico_Photography_Studio_MonumentLaptopCase_Buckskin_01_1280x1280.jpg" },
+    { "id": 2, "name": "NAVIGATOR LEATHER NOTEBOOK", "description": "The Navigator Leather Notebook features the best of our craft: a minimalist design, built refillable, and handmade with top-grain leather.", "price": 28, "photoUrl": "https://cdn.shopify.com/s/files/1/2304/5283/products/Rustico_Photography_Studio_Navigator_Notebook_Saddle_1_grande.jpg" },
+    { "id": 3, "name": "LOOP LEATHER KEYCHAIN", "description": "Easily and conveniently store your keys. A meticulously cut leather loop is  handcrafted around a metal key ring.", "price": 10, "photoUrl": "https://cdn.shopify.com/s/files/1/2304/5283/products/Rustico_Photography_Lifestyle_LoopKeychain_66_Web_1024x1024.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
