@@ -1,9 +1,9 @@
   
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "items": [
+    { "id": 1, "LAPTOP CASE": "Handmade out of top-grain leather with a wool interior, the Monument Laptop Case provides rugged protection for a laptop as well as additional pockets for small daily carry items.", 100, "https://cdn.shopify.com/s/files/1/2304/5283/products/Rustico_Photography_Studio_MonumentLaptopCase_Buckskin_01_1280x1280.jpg" },
+    { "id": 2, "NAVIGATOR LEATHER NOTEBOOK": "The Navigator Leather Notebook features the best of our craft: a minimalist design, built refillable, and handmade with top-grain leather.", 28, "https://cdn.shopify.com/s/files/1/2304/5283/products/Rustico_Photography_Studio_Navigator_Notebook_Saddle_1_grande.jpg" },
+    { "id": 3, "LOOP LEATHER KEYCHAIN": "Easily and conveniently store your keys. A meticulously cut leather loop is  handcrafted around a metal key ring.", 10, "https://cdn.shopify.com/s/files/1/2304/5283/products/Rustico_Photography_Lifestyle_LoopKeychain_66_Web_1024x1024.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
