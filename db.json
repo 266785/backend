@@ -2,8 +2,8 @@
 {
   "items": [
     { "id": 1, "name": "LAPTOP CASE", "description": "Handmade out of top-grain leather.", "price": 100, "photoUrl": "1.jpg" },
-    { "id": 2, "name": "NAVIGATOR LEATHER NOTEBOOK", "description": "The Navigator Leather Notebook features the best of our craft.", "price": 28, "photoUrl": "2.jpg" },
-    { "id": 3, "name": "LOOP LEATHER KEYCHAIN", "description": "Easily and conveniently store your keys.", "price": 10, "photoUrl": "3.jpg" }
+    { "id": 2, "name": "NOTEBOOK", "description": "The Navigator Leather Notebook features the best of our craft.", "price": 28, "photoUrl": "2.jpg" },
+    { "id": 3, "name": "KEYCHAIN", "description": "Easily and conveniently store your keys.", "price": 10, "photoUrl": "3.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
