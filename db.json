@@ -6,8 +6,8 @@
     { "id": 3, "name": "KEYCHAIN", "description": "Easily and conveniently store your keys.", "price": 10, "photoUrl": "3.jpg" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem", "postId": 1 },
+    { "id": 2, "body": "quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt", "postId": 2 }
   ],
   "profile": {
     "name": "typicode"
