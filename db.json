@@ -1,29 +1,28 @@
-  
-{
+  {
   "classes": [
-    { id: 0, className: 'Class 0'},
-    { id: 1, className: 'Class 1'},
-    { id: 2, className: 'Class 2'},
-    { id: 3, className: 'Class 3'},
-    { id: 4, className: 'Class 4'}
+    { "id": 0, class"name": 'Class 0'},
+    { "id": 1, class"name": 'Class 1'},
+    { "id": 2, class"name": 'Class 2'},
+    { "id": 3, class"name": 'Class 3'},
+    { "id": 4, class"name": 'Class 4'}
   ],
   "students": [
-   { id: 1, name: 'Vivamus', surname: 'Quisque', address: 'Sed hendrerit enim', date: 758054824 classId: 0, false}
-   { id: 2, name: 'Fusce', surname: 'Curabitur', address: 'Vestibulum molestie lacus ac', date: 776371624 classId: 0, false}
-   { id: 3, name: 'Praesent', surname: 'Aenean', address: 'Ut iaculis ipsum sit amet nisl', date: 777081600 classId: 3, false}
-   { id: 4, name: 'Lorem', surname: 'Phasellus', address: 'Morbi id justo dictum', date: 903312000 classId: 2, false}
-   { id: 5, name: 'Lorem', surname: 'Phasellus', address: 'Morbi id justo dictum', date: 829699200 classId: 0, false}
-   { id: 6, name: 'Vivamus', surname: 'Quisque', address: 'Sed hendrerit enim', date: 844300800 classId: 1, false}
-   { id: 7, name: 'Fusce', surname: 'Curabitur', address: 'Vestibulum molestie lacus ac', date: 765331200 classId: 1, false}
-   { id: 8, name: 'Lorem', surname: 'Phasellus', address: 'Morbi id justo ddictum', date: 846979200 classId: 1, false}
-   { id: 9, name: 'Fusce', surname: 'Curabitur', address: 'Vestibulum molestie lacus ac', date: 829094400 classId: 2, false}
-   { id: 10, name: 'Praesent', surname: 'Aenean', address: 'Ut iaculis ipsum sit amet nisl', date: 924739200 classId: 3, false}
-   { id: 11, name: 'Praesent', surname: 'Aenean', address: 'Ut iaculis ipsum sit amet nisl', date: 909532800 classId: 3, false}
-   { id: 12, name: 'Lorem', surname: 'Phasellus', address: 'Morbi id justo dictum', date: 972691200 classId: 4, false}
-   { id: 13, name: 'Vivamus', surname: 'Quisque', address: 'Sed hendrerit enim', date: 720230400 classId: 4, false}
-   { id: 14, name: 'Fusce', surname: 'Curabitur', address: 'Vestibulum molestie lacus ac', date: 801619200 classId: 1, false}
-   { id: 15, name: 'Lorem', surname: 'Phasellus', address: 'Morbi id justo dictum', date: 878947200 classId: 2, false}
-   { id: 16, name: 'Vivamus', surname: 'Quisque', address: 'Sed hendrerit enim', date: 989971200 classId: 3, false}
-   { id: 17, name: 'Praesent', surname: 'Aenean', address: 'Ut iaculis ipsum sit amet nisl', date: 853372800 classId: 4, false}
+   { "id": 1, "name": 'Vivamus', "surname": 'Quisque', "address": 'Sed hendrerit enim', "date": 758054824 "classId": 0, false}
+   { "id": 2, "name": 'Fusce', "surname": 'Curabitur', "address": 'Vestibulum molestie lacus ac', "date": 776371624 "classId": 0, false}
+   { "id": 3, "name": 'Praesent', "surname": 'Aenean', "address": 'Ut iaculis ipsum sit amet nisl', "date": 777081600 "classId": 3, false}
+   { "id": 4, "name": 'Lorem', "surname": 'Phasellus', "address": 'Morbi "id" justo dictum', "date": 903312000 "classId": 2, false}
+   { "id": 5, "name": 'Lorem', "surname": 'Phasellus', "address": 'Morbi "id" justo dictum', "date": 829699200 "classId": 0, false}
+   { "id": 6, "name": 'Vivamus', "surname": 'Quisque', "address": 'Sed hendrerit enim', "date": 844300800 "classId": 1, false}
+   { "id": 7, "name": 'Fusce', "surname": 'Curabitur', "address": 'Vestibulum molestie lacus ac', "date": 765331200 "classId": 1, false}
+   { "id": 8, "name": 'Lorem', "surname": 'Phasellus', "address": 'Morbi "id" justo ddictum', "date": 846979200 "classId": 1, false}
+   { "id": 9, "name": 'Fusce', "surname": 'Curabitur', "address": 'Vestibulum molestie lacus ac', "date": 829094400 "classId": 2, false}
+   { "id": 10, "name": 'Praesent', "surname": 'Aenean', "address": 'Ut iaculis ipsum sit amet nisl', "date": 924739200 "classId": 3, false}
+   { "id": 11, "name": 'Praesent', "surname": 'Aenean', "address": 'Ut iaculis ipsum sit amet nisl', "date": 909532800 "classId": 3, false}
+   { "id": 12, "name": 'Lorem', "surname": 'Phasellus', "address": 'Morbi "id" justo dictum', "date": 972691200 "classId": 4, false}
+   { "id": 13, "name": 'Vivamus', "surname": 'Quisque', "address": 'Sed hendrerit enim', "date": 720230400 "classId": 4, false}
+   { "id": 14, "name": 'Fusce', "surname": 'Curabitur', "address": 'Vestibulum molestie lacus ac', "date": 801619200 "classId": 1, false}
+   { "id": 15, "name": 'Lorem', "surname": 'Phasellus', "address": 'Morbi "id" justo dictum', "date": 878947200 "classId": 2, false}
+   { "id": 16, "name": 'Vivamus', "surname": 'Quisque', "address": 'Sed hendrerit enim', "date": 989971200 "classId": 3, false}
+   { "id": 17, "name": 'Praesent', "surname": 'Aenean', "address": 'Ut iaculis ipsum sit amet nisl', "date": 853372800 "classId": 4, false}
   ]
 }
