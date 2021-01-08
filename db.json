@@ -2,23 +2,23 @@
   "classes": [
     { 
       "id": 0, 
-      "className": "Zero"
+      "name": "Zero"
     },
     { 
       "id": 1, 
-      "className": "First"
+      "name": "First"
     },
     { 
       "id": 2, 
-      "className": "Second"
+      "name": "Second"
     },
     { 
       "id": 3, 
-      "className": "Third"
+      "name": "Third"
     },
     { 
       "id": 4, 
-      "className": "Forth"
+      "name": "Forth"
     }
   ],
   "students": [
