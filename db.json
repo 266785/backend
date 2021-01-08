@@ -1,10 +1,25 @@
   {
   "classes": [
-    { "id": 0, "className": "Class 0"},
-    { "id": 1, "className": "Class 1"},
-    { "id": 2, "className": "Class 2"},
-    { "id": 3, "className": "Class 3"},
-    { "id": 4, "className": "Class 4"}
+    { 
+      "id": 0, 
+      "className": "Zero"
+    },
+    { 
+      "id": 1, 
+      "className": "First"
+    },
+    { 
+      "id": 2, 
+      "className": "Second"
+    },
+    { 
+      "id": 3, 
+      "className": "Third"
+    },
+    { 
+      "id": 4, 
+      "className": "Forth"
+    }
   ],
   "students": [
    { "id": 1, "name": "Vivamus", "surname": "Quisque", "address": "Sed hendrerit enim", "date": 758054824, "classId": 0}
@@ -17,7 +32,10 @@
    { "id": 8, "name": "Lorem", "surname": "Phasellus", "address": "Morbi  justo ddictum", "date": 846979200, "classId": 1}
    { "id": 9, "name": "Fusce", "surname": "Curabitur", "address": "Vestibulum molestie lacus ac", "date": 829094400, "classId": 2}
    { "id": 10, "name": "Praesent", "surname": "Aenean", "address": "Ut iaculis ipsum sit amet nisl", "date": 924739200, "classId": 3}
-   { "id": 11, "name": "Praesent", "surname": "Aenean", "address": "Ut iaculis ipsum sit amet nisl", "date": 909532800, "classId": 3}
+   
+    
+    
+    { "id": 11, "name": "Praesent", "surname": "Aenean", "address": "Ut iaculis ipsum sit amet nisl", "date": 909532800, "classId": 3}
    { "id": 12, "name": "Lorem", "surname": "Phasellus", "address": "Morbi  justo dictum", "date": 972691200, "classId": 4}
    { "id": 13, "name": "Vivamus", "surname": "Quisque", "address": "Sed hendrerit enim", "date": 720230400, "classId": 4}
    { "id": 14, "name": "Fusce", "surname": "Curabitur", "address": "Vestibulum molestie lacus ac", "date": 801619200, "classId": 1}
